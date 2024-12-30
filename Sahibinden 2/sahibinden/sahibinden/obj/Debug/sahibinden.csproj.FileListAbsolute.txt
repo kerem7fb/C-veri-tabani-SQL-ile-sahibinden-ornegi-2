@@ -1,0 +1,23 @@
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\bin\Debug\sahibinden.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\bin\Debug\sahibinden.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\bin\Debug\sahibinden.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\sahibinden\sahibinden\obj\Debug\sahibinden.Form3.resources
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\bin\Debug\sahibinden.exe.config
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.exe
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.pdb
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\bin\Debug\sahibinden.exe
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\bin\Debug\sahibinden.pdb
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.Form1.resources
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.Form2.resources
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.Form3.resources
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.Form4.resources
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Sahibinden 2\sahibinden\sahibinden\obj\Debug\sahibinden.csproj.GenerateResource.Cache
